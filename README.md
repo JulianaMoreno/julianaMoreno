@@ -77,6 +77,6 @@ Total contributtions:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/julianamoreno/julianamoreno/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/julianamoreno/julianaMoreno/output/snake.svg" alt="Snake animation" />
 
 ###
