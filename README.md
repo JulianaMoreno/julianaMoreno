@@ -46,49 +46,62 @@ I'm always eager to learn and grow, and I’m especially interested in collabora
 ### 🚀 Languages ​​and tools 
 that I work with or have worked with:
 
-#### 💻 Linguagens de Programação
-![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
+<h4>💻 Linguagens de Programação</h4>
+<p>
+  <img src="https://img.shields.io/badge/Java-000?&logo=java&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/JavaScript-000?&logo=javascript&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/TypeScript-000?&logo=typescript&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Dart-000?&logo=dart&logoColor=white" height="25" />
+</p>
 
-#### 🛠️ Frameworks e Bibliotecas
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
+<h4>🛠️ Frameworks e Bibliotecas</h4>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-000?&logo=flutter&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000?&logo=springboot&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/React-000?&logo=react&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Node.js-000?&logo=nodedotjs&logoColor=white" height="25" />
+</p>
 
-#### 🗄️ Banco de Dados
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-
-#### ☁️ DevOps / Ferramentas
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions)
+<h4>🗄️ Banco de Dados</h4>
+<p>
+  <img src="https://img.shields.io/badge/Firebase-000?&logo=firebase&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/MySQL-000?&logo=mysql&logoColor=white" height="25" />
+</p>
 
 <h4>🔄 CI/CD & Versionamento</h4>
-<img src="https://img.shields.io/badge/-Git-000?&logo=git" />
-<img src="https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions" />
-<img src="https://img.shields.io/badge/-Jenkins-000?&logo=jenkins" />
-<img src="https://img.shields.io/badge/-Drone-000?&logo=drone" />
-<img src="https://img.shields.io/badge/-Woodpecker-000?&logo=woodpecker" />
-<img src="https://img.shields.io/badge/-Argo%20CD-000?&logo=argo" />
+<p>
+  <img src="https://img.shields.io/badge/Git-000?&logo=git&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000?&logo=githubactions&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Jenkins-000?&logo=jenkins&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Drone_CI-000?&logo=drone&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Woodpecker_CI-000?&logo=woodpecker&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Argo_CD-000?&logo=argo&logoColor=white" height="25" />
+</p>
 
 <h4>📦 Containers & Orquestração</h4>
-<img src="https://img.shields.io/badge/-Docker-000?&logo=docker" />
-<img src="https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes" />
+<p>
+  <img src="https://img.shields.io/badge/Docker-000?&logo=docker&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Kubernetes-000?&logo=kubernetes&logoColor=white" height="25" />
+</p>
 
 <h4>📈 Monitoramento & Observabilidade</h4>
-<img src="https://img.shields.io/badge/-Instana-000?&logo=instana" />
-<img src="https://img.shields.io/badge/-Grafana-000?&logo=grafana" />
+<p>
+  <img src="https://img.shields.io/badge/Instana-000?&logo=instana&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Grafana-000?&logo=grafana&logoColor=white" height="25" />
+</p>
 
 <h4>🛠️ Qualidade de Código & Testes</h4>
-<img src="https://img.shields.io/badge/-ESLint-000?&logo=eslint" />
-<img src="https://img.shields.io/badge/-Postman-000?&logo=postman" />
+<p>
+  <img src="https://img.shields.io/badge/ESLint-000?&logo=eslint&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Postman-000?&logo=postman&logoColor=white" height="25" />
+</p>
 
 <h4>🎨 Design & UI</h4>
-<img src="https://img.shields.io/badge/-Figma-000?&logo=figma" />
-<img src="https://img.shields.io/badge/-Material--UI-000?&logo=mui" />
+<p>
+  <img src="https://img.shields.io/badge/Figma-000?&logo=figma&logoColor=white" height="25" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Material_UI-000?&logo=mui&logoColor=white" height="25" />
+</p>
+
 <br>
 
 ### 📊 GitHub Stats
