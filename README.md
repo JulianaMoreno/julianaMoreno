@@ -1,15 +1,15 @@
 ## 👋 Hi, I'm Juliana Moreno
 
-I’m a **Frontend Engineer** with a solid fullstack background and a passion for building intuitive, scalable, and accessible interfaces.  
-Currently transitioning from a leadership role back to hands-on coding, I'm focusing on **React**, **TypeScript**, and **Flutter**, working on meaningful products with a strong emphasis on code quality and user experience.
+I’m a **Fullstack Engineer** with a solid backend and frontend background and a passion for building intuitive, scalable, and accessible interfaces.  
+Currently transitioning from a leadership role back to hands-on coding, I'm focusing on **React**, **TypeScript**, and **Java**, working on meaningful products with a strong emphasis on code quality and user experience.
 
-🎯 I'm especially interested in **frontend engineering**, **UI/UX best practices**, and contributing to projects that combine clean code with real-world impact.
+🎯 I'm especially interested in **feuustack engineering**, **frontend engineering**, **UI/UX best practices**, and contributing to projects that combine clean code with real-world impact.
 
 ---
 
 ### 🧠 About Me
 
-- 👩‍💻 **5+ years** of experience in software development, with a strong foundation in **JavaScript**, **TypeScript**, **React** and **Node**
+- 👩‍💻 **5+ years** of experience in software development, with a strong foundation in **JavaScript**, **TypeScript**, **React** and **Java**
 - 🌎 Experienced in both **startups** and **large-scale tech companies** (like QuintoAndar)
 - 📌 Former **Delivery Lead at Axur**, leading engineering squads and mentoring developers
 - 🎓 Bachelor’s in Computer Science – Federal University of Viçosa (UFV)
@@ -19,7 +19,7 @@ Currently transitioning from a leadership role back to hands-on coding, I'm focu
 
 ### 💼 Currently open to:
 
-- **Frontend Engineer** (Pleno) roles  
+- **Full-stack Engineer**  
 - Remote positions  
 - Collaborative teams with focus on code quality, modern stacks, and autonomy
 
