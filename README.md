@@ -15,15 +15,6 @@ Currently transitioning from a leadership role back to hands-on coding, I'm focu
 - 🎓 Bachelor’s in Computer Science – Federal University of Viçosa (UFV)
 - 🤝 Active in leadership and community initiatives like **AIESEC** and **Rotaract**
 
----
-
-### 💼 Currently open to:
-
-- **Full-stack Engineer**  
-- Remote positions  
-- Collaborative teams with focus on code quality, modern stacks, and autonomy
-
----
 
 ### 🔗 Portfolio & Links
 
